@@ -1,12 +1,7 @@
 # CS-255 System Analysis and Design
 
-This repository contains projects and portfolio artifacts completed for CS-255 at Southern New Hampshire University.
+Southern New Hampshire University
 
-## Course Topics
-- System Analysis
-- Business Requirements
-- UML Modeling
-- System Design Documentation
+This repository contains coursework and portfolio artifacts demonstrating system analysis and design methodologies, including business requirements documents, system designs, and supporting diagrams.
 
-## Author
-Charles Roaf
+Author: Charles Roaf
